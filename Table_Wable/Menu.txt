@@ -1,0 +1,6 @@
+Pasta           40
+Pizza			45
+Steak			60
+Paratha			15
+S.Kebab			35
+Nuggets			20

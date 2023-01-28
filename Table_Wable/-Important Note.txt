@@ -1,0 +1,5 @@
+IMPORTANT
+
+while compiling the code, compile all three files together.
+
+gcc reservation.c Table_Wable.c colors.c -o Table_Wable

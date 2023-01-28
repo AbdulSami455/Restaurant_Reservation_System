@@ -1,0 +1,5 @@
+Chicken Mandi		500
+Beef Mandi			500
+Mutton Mandi		500
+Fish Mandi			400 
+Marhaba Mandi		600

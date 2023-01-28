@@ -1,0 +1,5 @@
+Veggie Omelet		400
+Beef Omelet			350 
+Fried Steak			500
+Lamb Chops			500
+Grilled Chicken		400

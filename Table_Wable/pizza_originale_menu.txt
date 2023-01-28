@@ -1,0 +1,5 @@
+Chicken Tikka Pizza			600
+Beef Pepperoni Pizza		800
+Chicken Jalapeno Pizza		750
+Chicken Tomato Pizza		750
+Margherita Pizza			700
